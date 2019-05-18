@@ -1,0 +1,5 @@
+Changelog for fakeData.
+
+1.0.0-beta
+==============
+- Optimized for MODX 2.3
